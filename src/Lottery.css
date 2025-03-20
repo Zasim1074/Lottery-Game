@@ -1,0 +1,19 @@
+.lottery-tckt{
+    border-radius: 8px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+
+.lottery-tckt button{
+    width: 150px;
+    margin-left: 75px;
+}
+
+h1 span{
+    color: brown;
+}
+
+h3{
+    color: brown;
+}
